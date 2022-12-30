@@ -3,3 +3,5 @@
 - 🌱 Cadet of 42seoul
 - 💞️ Studying C, C++ and Data science things
 - 📫
+
+jinwoolee.kr
