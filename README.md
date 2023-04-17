@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jinwoole of 42
 - 👀 I’m interested in Sociology, Politics, Economy, Technology and so on.
 - 🌱 Cadet of 42seoul
-- 💞️ Studying C++, python and prompt
-- https://publish.obsidian.md/jinwoolee/📚000+Home
+- 💞️ Studying C++, python and generative AI
+- Blog: jinwoolee.kr
