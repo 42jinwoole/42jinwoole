@@ -2,4 +2,4 @@
 - 👀 I’m interested in Sociology, Politics, Economy, Technology and so on.
 - 🌱 Cadet of 42seoul
 - 💞️ Studying C++, python and prompt engineering.
-- [Blog](jinwoolee.kr)
+- [Blog /jinwoolee.kr](https://jinwoolee.kr)
