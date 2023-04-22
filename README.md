@@ -1,5 +1,5 @@
-- 👋 Hi, I’m jinwoole of 42
+- 👋 Hi, This is Jinwoo Lee.
 - 👀 I’m interested in Sociology, Politics, Economy, Technology and so on.
 - 🌱 Cadet of 42seoul
-- 💞️ Studying C++, python and prompt engineering
+- 💞️ Studying C++, python and prompt engineering.
 - Blog: jinwoolee.kr
